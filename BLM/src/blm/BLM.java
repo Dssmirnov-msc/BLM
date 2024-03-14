@@ -15,6 +15,8 @@ public class BLM {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        MainFrame mn = new MainFrame();
+        mn.setVisible(true);
         System.out.println("Hello, World");
     }
     
