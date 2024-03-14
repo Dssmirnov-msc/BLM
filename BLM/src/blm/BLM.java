@@ -17,6 +17,7 @@ public class BLM {
     public static void main(String[] args) {
         MainFrame mn = new MainFrame();
         mn.setVisible(true);
+        System.out.println("Hello, World");
     }
     
 }
