@@ -23,3 +23,5 @@
 hs_err_pid*
 replay_pid*
 /BLM/nbproject/private/
+/BLM/build/
+/BLM/dist/

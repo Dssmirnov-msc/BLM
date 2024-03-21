@@ -3,17 +3,14 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package blm;
+package com.mephi.mavenex;
 
 /**
  *
  * @author user
  */
-public class BLM {
- 
-    /**
-     * @param args the command line arguments
-     */
+public class MavenEx {
+    
     public static void main(String[] args) {
         MainFrame mn = new MainFrame();
         mn.setVisible(true);
